@@ -1,4 +1,4 @@
-Deleteqq.py:
+Deleteqq.py:（原始暴力式删除）
 删除QQ空间中相关信息，针对元素位置不发生变化的信息（鼠标的点击区域不发生变化），鼠标移动的位置请根据自生的显示器设定
 
 安装必要的文件：pynput，可从pycharm的设置中安装，也可以通过pip命令安装：pip3 install pynput。
